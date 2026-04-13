@@ -1,0 +1,22 @@
+[package]
+name = "refinator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.42"
+clap = { version = "4.5.51", features = ["derive"] }
+console = "0"
+const_format = "0"
+either = "1"
+humantime = "2"
+indicatif = "0"
+llvm-ir = { version = "0", features = ["llvm-17"] }
+petgraph = "0"
+phf = { version = "0", features = ["macros"] }
+regex = "1.12.2"
+z3 = { version = "0" }
+# z3 = { version = "0", features = ["gh-release"] }
+
+[profile.dev]
+debug = true
