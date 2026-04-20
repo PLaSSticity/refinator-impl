@@ -215,7 +215,7 @@ $ cargo build --release
 
 ## License
 
-This software, exclusive of the datasets (`datasets`, `manual-translations`), is licensed under MIT license. See [LICENSE](LICENSE) for details.
+This software, exclusive of the datasets (`benchmarks`, `manual-translations`), is licensed under MIT license. See [LICENSE](LICENSE) for details.
 
-The source code and manual translations for each benchmark (`datasets/*`, `manual-translations/*`), except for `running-example`, is adapted from [CRUST-Bench](https://github.com/anirudhkhatry/CRUST-bench) by [Anirudh Khatry](https://github.com/anirudhkhatry) et al., used under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). The source code and manual translations for each benchmark, except for `running-example`, is licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+The source code and manual translations for each benchmark (`benchmarks/*`, `manual-translations/*`), except for `running-example`, is adapted from [CRUST-Bench](https://github.com/anirudhkhatry/CRUST-bench) by [Anirudh Khatry](https://github.com/anirudhkhatry) et al., used under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). The source code and manual translations for each benchmark, except for `running-example`, is licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
